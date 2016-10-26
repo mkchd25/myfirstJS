@@ -1,0 +1,3 @@
+# myfirstJS
+JavaScript Class
+
