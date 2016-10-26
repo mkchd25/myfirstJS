@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+<title> JS Test</title>
+<body>
+<head> This JS Test</head>
+<script>
+alert("Hello World")
+</script>
+</body>
+</html>
